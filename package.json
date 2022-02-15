@@ -33,6 +33,8 @@
     "less": "^3.0.4",
     "less-loader": "^5.0.0",
     "prettier": "^2.2.1",
+    "pug": "^3.0.2",
+    "pug-plain-loader": "^1.1.0",
     "typescript": "~4.1.5",
     "unplugin-auto-import": "^0.5.11",
     "unplugin-vue-components": "^0.17.18"
